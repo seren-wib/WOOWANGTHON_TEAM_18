@@ -22,6 +22,7 @@ Draw in layers and check each layer against a fact list extracted from the plan 
 - [x] Layer 6: failure / secrets / priority text boxes, legend
 - [x] Delete `docs/architecture/physical-network.drawio.svg`; drop the untracked `docs/k3s-cluster.drawio.svg`
 - [x] Render PNG, stale-word check, checklist check
+- [x] Slim the diagram to structure only after review loops 1–4 (plan v72); detail goes to docs/design/cluster.md at plan stage 04
 
 ## Done when
 
